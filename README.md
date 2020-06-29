@@ -1,0 +1,2 @@
+# Text-Editor
+Implementation of a basic console Text Editor using Haskell for the Programming Paradigms module of second year Computer Science. The task was to implement the text editor solution in either a purely functional or purely object-oriented programming language. Haskell was chosen as a purely functional programming language after conducting research into all programming paradigms, detailed in the report.
